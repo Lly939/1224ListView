@@ -11,8 +11,9 @@ import android.widget.TextView;
 import java.util.List;
 
 //private int resourceId;
+//tuutytjtjtjt
 
-                                                                                                                                                                                                                                                                                                                                                                                
+
 public class FruitAdapter extends ArrayAdapter<Fruit>{
 
     private int resourceId;
